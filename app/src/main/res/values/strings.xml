@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_new_goal">Added the new goal.</string>
+    <string name="Edit">Edit</string>
+    <string name="Delete">Delete</string>
+    <string name="Exit">Exit</string>
+</resources>

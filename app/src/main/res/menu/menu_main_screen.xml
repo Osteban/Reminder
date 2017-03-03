@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.stepanrerikh.reminder.MainScreen">
+    <item
+        android:id="@+id/Edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:orderInCategory="100"
+        android:title="@string/Edit"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/Delete"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:orderInCategory="100"
+        android:title="@string/Delete"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/Exit"
+        android:orderInCategory="100"
+        android:title="@string/Exit"
+        app:showAsAction="never"/>
+</menu>

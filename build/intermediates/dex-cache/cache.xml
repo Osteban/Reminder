@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Documents\Reminder\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93fe557a241257b5856c599c98d942e57cf2577f">
+        <dex dex="F:\Documents\Reminder\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b0b2247818c97b9043ae2bdb3426975e413a1d46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Documents\Reminder\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="F:\Documents\Reminder\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_69329c6dd4cb206cf2b5875d2a832eb57367dacb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Documents\Reminder\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="F:\Documents\Reminder\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_5ee5fd11bcad3c1acd1a7d423f8da1f059725018.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Documents\Reminder\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="F:\Documents\Reminder\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_923080e96e4bfa6a779487be4dff1a0699a5423f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Documents\Reminder\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="F:\Documents\Reminder\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.2.0_3cec07fb4690fe5885b2d0c81c2df424f84e3d4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Documents\Reminder\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e365f073e6803f4a65b64c132ccd83a03c46cdc4">
+        <dex dex="F:\Documents\Reminder\app\build\intermediates\pre-dexed\debug\instant-run_392ef82b52aafb44c6dcd160b295f4c77b3fb989.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Documents\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="F:\Documents\Reminder\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_0f6dce3d3b036f10c2c88e0b6180760ae1dca1b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Documents\Reminder\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="F:\Documents\Reminder\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_453e6c81afcb17663fd0760f357f4293175c0ad7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Documents\Reminder\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="F:\Documents\Reminder\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.2.0_33b65c84d1604770bafd483fdff96cd080201473.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Documents\Reminder\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="F:\Documents\Reminder\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_2ccedf019463f75465e9783534c623b66f2d5297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Documents\Reminder\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="F:\Documents\Reminder\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_0107945a2d65cb71dafb532ab44c7fbd78a56969.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Documents\Reminder\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="F:\Documents\Reminder\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_7c50d1ec3809d1fb15457ecbad2fcdd8d5b964d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Documents\Reminder\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Documents\Reminder\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_482479cc3a01fd247df31be57be343acf93c74fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Documents\Reminder\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="F:\Documents\Reminder\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_2462fbc4a15b6ca4dce0239661b035c783f4803f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Documents\Reminder\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="F:\Documents\Reminder\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_d0d16c8a5215773fd457b6a199e14ed2a2a3bbd0.jar" />
+    </item>
+
+</items>
